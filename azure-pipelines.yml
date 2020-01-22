@@ -8,7 +8,7 @@ variables:
  - name: blueprintName
    value: '101-boilerplate'
  - name: subscriptionId
-   value: 'ae8e200a-97db-4b3e-82dc-1b3b6bbc609f' # / Contoso IT - SH360 - Prod
+   value: 'ae8e200a-97db-4b3e-82dc-1b3b6bbc609f' # / MJL Visual Studio
 
 trigger:
   branches:
